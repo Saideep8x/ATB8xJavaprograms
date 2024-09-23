@@ -1,7 +1,8 @@
 package Daily_Tasks.Task20092024;
 
 import java.util.Scanner;
-
+//Check the sides of a triangle using if elseif else condition where user
+////gives the input.
 public class Task13 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
