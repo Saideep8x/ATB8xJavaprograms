@@ -1,6 +1,6 @@
-package sept.ex_04092024;
+package Daily_Tasks.Task04092024;
 
-public class Lab003 {
+public class Task03 {
  public static void main(String[] args){
      System.out.println("Hello");
  }

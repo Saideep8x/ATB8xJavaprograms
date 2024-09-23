@@ -1,6 +1,6 @@
-package sept.ex_20092024;
+package Daily_Tasks.Task20092024;
 
-public class Lab005 {
+public class Task15 {
     public static void main(String[] args) {
 
     int year = 2024;

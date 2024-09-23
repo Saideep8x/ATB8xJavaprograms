@@ -1,8 +1,8 @@
-package sept.ex_20092024;
+package Daily_Tasks.Task20092024;
 
 import java.util.Scanner;
 
-public class Lab003 {
+public class Task13 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int side1,side2,side3;
